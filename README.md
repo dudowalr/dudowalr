@@ -1,5 +1,4 @@
----------------------------------------------------------
-
+-----------------------------------------------------
 ## 🎓 Education
 - B.S. in Information & Communication Engineering  
   Myongji University  
@@ -8,13 +7,16 @@
 - SK Shieldus Rookies  
   February 26, 2026 – September 9, 2026 (Expected)
 
----------------------------------------------------------
+-----------------------------------------------------
 
 ## 📜 Certifications
 - Engineer Information Processing  
-  Acquired : December 24, 2025 | HRDK
+  Acquired : December 24, 2025 | HRDK  
 
----------------------------------------------------------
+- Driver’s License (Class 1 Ordinary)  
+  Acquired : July 13, 2018
+
+-----------------------------------------------------
 
 ## 🎖️ Military Leadership
 - Republic of Korea Army (ROKA)  
@@ -27,4 +29,4 @@
   Company Commander (Recruit Training)  
   March 1, 2025 – June 30, 2025
 
----------------------------------------------------------
+-----------------------------------------------------
