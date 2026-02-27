@@ -18,7 +18,7 @@
 
 -----------------------------------------------------
 
-## 🎖️ Military Leadership
+## 🎖️ Military Service
 - Republic of Korea Army (ROKA)  
   Commissioned in 2023  
   15th Infantry Division – Recruit Training Center  
