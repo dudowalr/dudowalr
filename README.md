@@ -11,7 +11,7 @@
 
 ## 📜 Certifications
 - Engineer Information Processing  
-  Acquired : December 24, 2025 | HRDK  
+  Acquired : December 24, 2025 | HRDK(한국산업인력공단)  
 
 - Driver’s License (Class 1 Ordinary)  
   Acquired : July 13, 2018
