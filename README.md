@@ -1,4 +1,4 @@
-## 🎓Education
+## Education
 - Myongji University
   B.S. in Information & Communication Engineering    
 
@@ -9,7 +9,7 @@
 - Engineer Information Processing  
   Acquired: December 4, 2025 | HRDK
 ---------------------------------------------------
-## 🎖️Military Experience
+## Military Experience
 - Republic of Korea Army (ROKA)  
   15th Infantry Division – Recruit Training Center  
 
